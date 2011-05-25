@@ -3,9 +3,6 @@ layout: default
 title: Open Source Projects
 ---
 
-Open Source Projects
-====================
-
 [tinyPack](http://mtancret.github.com/tinyPack) 
 -----------------------------------------------
 
