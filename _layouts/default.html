@@ -1,23 +1,9 @@
----
-# -*- html -*- mode
-topnav:
-  - text: About
-    href: /about/
-  - text: Blog
-    href: /
-    http: "http://google.com"
-  - text: Archives
-    href: /archives/
-  - text: Categories
-    href: /tags/
-  - text: Other
-    href: /other/
----
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
 <title>Matthew Tancreti : {{ page.title }} </title>
+<link rel="stylesheet" type="text/css" href="/css/default.css"/>
 </head>
 
 <body>
@@ -33,6 +19,9 @@ topnav:
 				<li class="active">
 					<a href="about" title="About"></a>
 	         		</li>
+				<li class="active">
+					<a href="home" title="Home"></a>
+	         		</li>
 			</ul>
 		</div>
 	</div>
@@ -40,5 +29,6 @@ topnav:
 </div>
 
 {{ content }}
+
 </body>
 </html>
