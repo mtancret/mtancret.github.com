@@ -3,7 +3,7 @@ layout: default
 title: Open Source Projects
 ---
 
-[tinyPack](http://projects.mtancret.net/tinyPack.html) 
+[tinyPack](/tinyPack/) 
 ------------------------------------------------------
 
 Data compression algorithms for TinyOS.
