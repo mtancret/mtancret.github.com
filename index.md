@@ -3,12 +3,12 @@ layout: default
 title: Open Source Projects
 ---
 
-[tinyPack](http://mtancret.github.com/tinyPack) 
------------------------------------------------
+[tinyPack](http://projects.mtancret.net/tinyPack.html) 
+------------------------------------------------------
 
 Data compression algorithms for TinyOS.
 
-[pySentencizer](http://mtancret.github.com/pySentencizer) 
----------------------------------------------------------
+[pySentencizer](http://projects.mtancret.net/pySentencizer.html) 
+----------------------------------------------------------------
 
 This Python module is a simple sentencizer, tokenizer, and parts-of-speech tagger for the English language.
