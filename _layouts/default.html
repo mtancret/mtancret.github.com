@@ -3,32 +3,34 @@
 <html>
 <head>
 <title>Matthew Tancreti : {{ page.title }} </title>
-<link rel="stylesheet" type="text/css" href="/css/default.css"/>
+<link rel="stylesheet" type="text/css" href="css/default.css"/>
 </head>
 
 <body>
 
-<div id="header">
-	<h2><a href="http://projects.tancreti.net">Matthew Tancreti</a></h2>
-	<div class="clear"></div>
+<div class="page_margins">
 
-	<!-- begin: main navigation #nav -->
-	<div id="nav">
-		<div class="hlist">
-			<ul>
-				<li class="active">
-					<a href="about" title="About"></a>
-	         		</li>
-				<li class="active">
-					<a href="home" title="Home"></a>
-	         		</li>
-			</ul>
+	<div id="header">
+		<h2><a href="http://projects.tancreti.net">Matthew Tancreti : {{ page.title }}</a></h2>
+		<div class="clear"></div>
+	
+		<div id="nav">
+			<div class="hlist">
+				<ul>
+					<li>
+						<a href="http://tancreti.net" title="Home">Home</a>
+		         		</li>
+					<li>
+						<a href="http://projects.tancreti.net" title="Projects">Projects</a>
+		         		</li>
+				</ul>
+			</div>
 		</div>
 	</div>
-	<!-- end: main navigation -->
-</div>
+	
+	{{ content }}
 
-{{ content }}
+</div>
 
 </body>
 </html>
