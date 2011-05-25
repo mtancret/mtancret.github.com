@@ -1,6 +1,6 @@
 ---
+layout: default
 title: Open Source Projects
-layout: wikistyle
 ---
 
 Open Source Projects
