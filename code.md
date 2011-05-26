@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Source Projects
+title: Code
 ---
 
 [tinyPack](http://matthew.tancreti.net/tinyPack.html) 

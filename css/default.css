@@ -1,3 +1,9 @@
+body #Home #header #nav a.home,
+body #Code #header #nav a.code,
+body #About #header #nav a.about { 
+	border-bottom: 20px solid silver; 
+}
+
 body {
 	margin: 10px;
 	padding: 0px;
@@ -118,7 +124,7 @@ img {
 #header ul {
 	margin-top: 0px;
 	padding: 5px 0px 5px 0px;
-	border-top: 2px solid #ddd;
+	/*border-top: 2px solid #ddd;*/
 	border-bottom: 4px #888 solid;
 }
 
