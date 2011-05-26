@@ -7,7 +7,7 @@ body {
 }
 
 body, a {
-	color: #333;
+	color: #000000;
 }
 
 a:hover {
@@ -28,7 +28,7 @@ pre, code {
 }
 
 h1, h2, h3 {
-	color: #000;
+	color: #000000;
 }
 
 h1 a, h2 a, h3 a,
@@ -54,8 +54,8 @@ img {
 .page_margins {
 	text-align: left;
 	margin: 0 auto;
-	min-width: 700px;
-	max-width: 1000px;
+	min-width: 300px;
+	max-width: 700px;
 }
 
 .hlist {
