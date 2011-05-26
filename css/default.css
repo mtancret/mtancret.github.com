@@ -1,7 +1,7 @@
 body #Home #header #nav a.home,
 body #Code #header #nav a.code,
 body #About #header #nav a.about { 
-	border-bottom: 20px solid silver; 
+	border-bottom: 4px solid #000000; 
 }
 
 body {
