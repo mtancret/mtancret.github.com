@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 
-Home
+This site hosts some projects that I have worked on.

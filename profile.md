@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Profile
 ---
 
 I am currently a PhD student at Purdue University researching sensor networks and
