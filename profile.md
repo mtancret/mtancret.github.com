@@ -3,5 +3,6 @@ layout: default
 title: Profile
 ---
 
-I am currently a PhD student at Purdue University researching sensor networks and
-security. I enjoy working on open source projects.
+I am currently a PhD student at Purdue University. I work in the
+[Dependable Computing Systems Laboratory (DCSL)](https://engineering.purdue.edu/dcsl/index.html).
+My primary research area is sensor networks and security.

@@ -6,7 +6,7 @@ title: aveksha
 <img src="images/aveksha.png" alt="Aveksha logo" align="left" width="300"
 height="125" title="Aveksha logo" class="img"/>
 
-Aveksha is a harware-software approach for non-intrusively tracing and profiling
+Aveksha is a hardware-software approach for non-intrusively tracing and profiling
 sensor network nodes. The hardware prototype we have created is the Telos Debug
 Board (TDB). This board is capable of interfacing with the JTAG port on a Telos
 (Rev B) mote. We will be presenting Aveksha and demoing the TDB at
