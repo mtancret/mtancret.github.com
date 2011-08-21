@@ -3,7 +3,7 @@ layout: default
 title: tinyPack
 ---
 
-tinyPack provides data compression algorithms for TinyOS.
+TinyPack provides data compression algorithms for TinyOS.
 
 It seems that most data compression algorithms require several
 kilobytes of memory to achieve useful compression. TinyPack is
