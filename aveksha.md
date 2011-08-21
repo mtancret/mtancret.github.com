@@ -4,7 +4,7 @@ title: aveksha
 ---
 
 <img src="images/aveksha.png" alt="Aveksha logo" align="left" width="290"
-height="120" title="Aveksha logo" class="img"/>
+height="115" title="Aveksha logo" class="img"/>
 
 Aveksha is a hardware-software approach for non-intrusively tracing and profiling
 sensor network nodes. The hardware prototype we have created is the Telos Debug
