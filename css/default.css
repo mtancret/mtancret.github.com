@@ -89,6 +89,7 @@
 body #Home #header #nav a.home,
 body #Projects #header #nav a.projects,
 body #Code #header #nav a.code,
+body #Research #header #nav a.research,
 body #About #header #nav a.about { 
 	border-bottom: 4px solid #000000; 
 }

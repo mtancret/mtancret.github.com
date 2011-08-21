@@ -3,6 +3,14 @@ layout: default
 title: Code
 ---
 
+This is a list of open source code projects that I have started.
+
+[lojeme](http://matthew.tancreti.net/lojeme.html)
+-------------------------------------------------
+
+A simple framework to enable object oriented programming in Prolog, with a focus
+on fast execution time and ease of use.
+
 [tinyPack](http://matthew.tancreti.net/tinyPack.html) 
 ------------------------------------------------------
 
