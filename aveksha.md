@@ -3,7 +3,7 @@ layout: default
 title: aveksha
 ---
 
-<img src="images/aveksha.png" alt="Aveksha logo" align="left" width="285"
+<img src="images/aveksha.png" alt="Aveksha logo" align="left" width="300"
 height="110" title="Aveksha logo" class="img"/>
 
 Aveksha is a hardware-software approach for non-intrusively tracing and profiling
