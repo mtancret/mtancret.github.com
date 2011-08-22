@@ -1,6 +1,6 @@
 ---
 layout: default
-title: aveksha
+title: Aveksha
 ---
 
 <img src="images/aveksha.png" alt="Aveksha logo" align="left" width="290"
