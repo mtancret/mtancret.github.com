@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
--><img src="images/GreatBlueHeron.png" alt="Photograph of a Great Blue Heron, taken from my back yard." title="Great Blue Heron" class="img"/><-
+<img src="images/GreatBlueHeron.png" alt="Photograph of a Great Blue Heron, taken from my back yard." title="Great Blue Heron" class="center"/>
 
 I like working on open source software and hardware, this site details some of my projects.
 
