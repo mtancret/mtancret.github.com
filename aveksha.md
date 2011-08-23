@@ -4,7 +4,7 @@ title: Aveksha
 ---
 
 <img src="images/aveksha.png" alt="The Aveksha logo." align="left" width="280" title="Aveksha Logo" class="img"/>
-<img src="images/tdb.png" alt="Photograph of the Telos Debug Board (TDB), connected to a Telos Rev B mote." align="left" title="TDB" class="img"/>
+<img src="images/tdb.png" alt="Photograph of the Telos Debug Board (TDB), connected to a Telos Rev B mote." align="left" title="TDB" class="img"/>  
 
 
 Aveksha is a hardware-software approach for non-intrusively tracing and profiling
