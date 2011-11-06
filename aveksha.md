@@ -11,13 +11,11 @@ Aveksha is a hardware-software approach for non-intrusively tracing and profilin
 sensor network nodes. It is particularly useful for in-field monitoring and debugging
 of sensor network applications. The key is to exploit the capabilities of the JTAG
 interface present on the sensor nodes application processor, to rapidly poll the
-processors state and create a trace of important events. The trace is augmented with
+processors state and create a trace of events. The trace is augmented with
 energy reading that can be correlated to the events. The hardware prototype we have
 created is the Telos Debug Board (TDB). This board is capable of interfacing with the
 JTAG port on a Telos (Rev B) mote. It can poll a watchpoint buffer or PC register of
 the target processor, while at the same time taking energy readings of the mote.
-We will be presenting Aveksha and demoing the TDB at
-[SenSys 2011](http://sensys.acm.org/2011) in Seattle, WA on Nov 1-4.
 
 Publications
 ------------
