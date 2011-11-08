@@ -24,9 +24,9 @@ Aveksha: A Hardware-Software Approach for Non-intrusive Tracing and Profiling of
 Wireless Embedded Systems: Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi,
 and Vijay Raghunathan. In: 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 14 pages, Seattle, Washington, November 1-4, 2011. (Acceptance rate: 24/123 = 19.5%)
-[\[ Presentation \]](documents/presentation-aveksha-sensys2011.pdf)
+[\[ Paper \]](documents/aveksha-sensys2011.pdf) [\[ Presentation \]](documents/presentation-aveksha-sensys2011.pdf)
 
 Demo Abstract: Aveksha - A Hardware-Software Approach for Non-intrusive Tracing and Profiling of
 Wireless Embedded Systems: Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi,
 and Vijay Raghunathan. In: 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
-2 pages, Seattle, Washington, November 1-4, 2011.
+2 pages, Seattle, Washington, November 1-4, 2011. [\[ Demo Abstract \]](documents/demo-aveksha-sensys2011.pdf) [\[ Poster \]](documents/poster-aveksha-sensys2011.pdf)
