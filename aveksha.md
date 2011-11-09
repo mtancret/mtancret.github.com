@@ -20,13 +20,16 @@ the target processor, while at the same time taking energy readings of the mote.
 Publications
 ------------
 
-Aveksha: A Hardware-Software Approach for Non-intrusive Tracing and Profiling of
-Wireless Embedded Systems: Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi,
+[Aveksha: A Hardware-Software Approach for Non-intrusive Tracing and Profiling of
+Wireless Embedded Systems](aveksha.html): Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi,
 and Vijay Raghunathan. In: 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 14 pages, Seattle, Washington, November 1-4, 2011. (Acceptance rate: 24/123 = 19.5%)
-[\[ Paper \]](documents/aveksha-sensys2011.pdf) [\[ Presentation \]](documents/presentation-aveksha-sensys2011.pdf)
+\[ [Paper](documents/aveksha-sensys2011.pdf) \]
+\[ [Presentation](documents/presentation-aveksha-sensys2011.pdf) \]
 
-Demo Abstract: Aveksha - A Hardware-Software Approach for Non-intrusive Tracing and Profiling of
-Wireless Embedded Systems: Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi,
+[Demo Abstract: Aveksha - A Hardware-Software Approach for Non-intrusive Tracing and Profiling of
+Wireless Embedded Systems](aveksha.html): Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi,
 and Vijay Raghunathan. In: 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
-2 pages, Seattle, Washington, November 1-4, 2011. [\[ Demo Abstract \]](documents/demo-aveksha-sensys2011.pdf) [\[ Poster \]](documents/poster-aveksha-sensys2011.pdf)
+2 pages, Seattle, Washington, November 1-4, 2011.
+\[ [Demo Abstract](documents/demo-aveksha-sensys2011.pdf) \]
+\[ [Poster](documents/poster-aveksha-sensys2011.pdf) \]
