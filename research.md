@@ -10,7 +10,7 @@ Conference
 Wireless Embedded Systems](aveksha.html): Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi,
 and Vijay Raghunathan. In: 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 14 pages, Seattle, Washington, November 1-4, 2011. (Acceptance rate: 24/123 = 19.5%)
-\[ [Paper](documents/aveksha-sensys2011.pdf) \]
+\[ [Paper](documents/aveksha-sensys2011-author.pdf) \]
 \[ [Presentation](documents/presentation-aveksha-sensys2011.pdf) \]
 
 Multigrade Security Monitoring for Ad-Hoc Wireless Networks, Matthew Tan Creti,
