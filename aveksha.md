@@ -17,6 +17,12 @@ created is the Telos Debug Board (TDB). This board is capable of interfacing wit
 JTAG port on a Telos (Rev B) mote. It can poll a watchpoint buffer or PC register of
 the target processor, while at the same time taking energy readings of the mote.
 
+Code
+----
+The [source](https://github.com/mtancret/aveksha) is freely
+available. It is licensed under the
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
 Publications
 ------------
 

@@ -3,7 +3,12 @@ layout: default
 title: Code
 ---
 
-This is a list of open source code projects that I have started.
+[Aveksha: Hardware Enabled Debugging for Sensor Networks](http://matthew.tancreti.net/aveksha.html)
+---------------------------------------------------------
+
+Aveksha is a hardware-software approach for non-intrusively tracing and profiling
+sensor network nodes. The hardware prototype we have created is the Telos Debug
+Board (TDB).
 
 [lojeme](http://matthew.tancreti.net/lojeme.html)
 -------------------------------------------------
