@@ -26,10 +26,9 @@ available. It is licensed under the
 Publications
 ------------
 
-**Best Paper Award: **
-Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.  
-**Aveksha: A Hardware-Software Approach for Non-intrusive Tracing and
-Profiling of Wireless Embedded Systems**.
+**Best Paper Award:** Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi,
+and Vijay Raghunathan. **Aveksha: A Hardware-Software Approach for
+Non-intrusive Tracing and Profiling of Wireless Embedded Systems**.
 In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 14 pages, Seattle, Washington, November 1-4, 2011.
 (Acceptance rate: 24/123 = 19.5%)
