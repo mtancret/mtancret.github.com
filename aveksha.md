@@ -34,6 +34,7 @@ In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 (Acceptance rate: 24/123 = 19.5%)
 \[ [Paper](documents/aveksha-sensys2011-author.pdf) \]
 \[ [Presentation](documents/presentation-aveksha-sensys2011.pdf) \]
+\[ [DOI](http://dx.doi.org/10.1145/2070942.2070972) \]
 
 Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.  
 **Demo Abstract: Aveksha - A Hardware-Software Approach for Non-intrusive
