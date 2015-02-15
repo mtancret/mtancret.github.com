@@ -14,7 +14,7 @@ In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 (Acceptance rate: 24/123 = 19.5%)  
 \[ [Paper](documents/aveksha-sensys2011-author.pdf) \]
 \[ [Presentation](documents/presentation-aveksha-sensys2011.pdf) \]
-\[ [DOI](http://dx.doi.org/10.1145/2070942.2070972) \]
+\[ doi > [10.1145/2070942.2070972](http://dx.doi.org/10.1145/2070942.2070972) \]
 
 Matthew Tan Creti, Matthew Beaman, Saurabh Bagchi, Zhiyuan Li, and Yung-Hsiang Lu.  
 **Multigrade Security Monitoring for Ad-Hoc Wireless Networks**.
