@@ -17,7 +17,7 @@ of resource-constrained embedded systems.
 
 Download
 --------
-TARDIS is [available](https://github.com/mtancret/recordandreplay) for non-commercial purposes.
+TARDIS is [available](https://github.com/mtancret/recordreplay) for non-commercial purposes.
 
 Publications
 ------------
