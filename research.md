@@ -59,3 +59,12 @@ Thesis
 ------
 Matthew Edward Tan Creti. **Software and Hardware Approaches for Record and Replay of Wireless Sensor Networks**. PhD Thesis, Purdue University, West Lafayette, Indiana. Expected April 2015.
 
+Professional Activities
+-----------------------
+
+I have been a reviewer for the following journals:
+
+IEEE Transactions on Parallel and Distributed Systems - 2014
+
+Transactions on Computers - 2015
+
