@@ -6,7 +6,15 @@ title: Research
 Conference Articles
 -------------------
 
-Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.  
+Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, and Patrick Eugster.
+**TARDIS: Software-Only System-Level Record and Replay in Wireless Sensor Networks**.
+In Proceedings of the 14th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN),
+12 pages, Seattle, Washington, April 14-16, 2015.
+(Acceptance rate: 27/111 = 24.3%)
+\[ [Paper](documents/tardis-ipsn2015-author.pdf) \]
+\[ doi > [10.1145/2737095.2737096](http://dx.doi.org/10.1145/2737095.2737096) \]
+
+Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.
 **[Aveksha: A Hardware-Software Approach for Non-intrusive Tracing and
 Profiling of Wireless Embedded Systems](aveksha.html)**.
 In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
@@ -33,6 +41,12 @@ Hong Kong, China, 2011.
 Demos and Posters
 -----------------
 
+Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, and Patrick Eugster.
+**Demonstration Abstract: Software-Only System-Level Record and Replay in Wireless Sensor Networks**.
+In Proceedings of the 14th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN),
+2 pages, Seattle, Washington, April 14-16, 2015.  
+\[ [Demo Abstract](documents/demo-tardis-ipsn2015.pdf) \]
+
 Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.  
 **[Demo Abstract: Aveksha - A Hardware-Software Approach for Non-intrusive
 Tracing and Profiling of Wireless Embedded Systems](aveksha.html)**.
@@ -40,3 +54,8 @@ In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 2 pages, Seattle, Washington, November 1-4, 2011.  
 \[ [Demo Abstract](documents/demo-aveksha-sensys2011.pdf) \]
 \[ [Poster](documents/poster-aveksha-sensys2011.pdf) \]
+
+Thesis
+------
+Matthew Edward Tan Creti. **Software and Hardware Approaches for Record and Replay of Wireless Sensor Networks**. PhD Thesis, Purdue University, West Lafayette, Indiana. Expected April 2015.
+
