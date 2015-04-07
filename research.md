@@ -64,7 +64,7 @@ Professional Activities
 
 I have been a reviewer for the following journals:
 
-IEEE Transactions on Parallel and Distributed Systems - 2014
+IEEE Transactions on Parallel and Distributed Systems (TPDS) - 2014
 
-Transactions on Computers - 2015
+IEEE Transactions on Computers (TC) - 2015
 
