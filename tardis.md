@@ -3,7 +3,7 @@ layout: default
 title: TARDIS
 ---
 
-<img src="images/tardis.png" alt="Overview of TARDIS architecture." align="left" title="TARDIS" class="img"/>
+<img src="images/tardis.png" alt="Overview of TARDIS architecture." width="400" title="TARDIS" class="img"/>
 <br/>
 
 Trace And Replay Debugging In Sensornets (TARDIS) is a software approach for
