@@ -17,7 +17,7 @@ of resource-constrained embedded systems.
 
 Download
 --------
-TARDIS is [available](https://github.com/mtancret/recordreplay) for non-commercial purposes.
+The TARDIS runtime is [available](https://github.com/mtancret/recordreplay) for non-commercial purposes.
 
 Publications
 ------------
