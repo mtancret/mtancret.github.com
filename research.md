@@ -57,7 +57,7 @@ In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 Thesis
 ------
 
-Tan Creti, Matthew Edward Ph.D., Purdue University, April 2015. **Software and Hardware Approaches for Record and Replay of Wireless Sensor Networks**. Major Professor: Saurabh Bagchi.
+Tan Creti, Matthew Edward Ph.D., Purdue University, August 2015. **Software and Hardware Approaches for Record and Replay of Wireless Sensor Networks**. Major Professor: Saurabh Bagchi.
 
 Professional Activities
 -----------------------
