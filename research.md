@@ -12,7 +12,6 @@ In Proceedings of the 14th ACM/IEEE Conference on Information Processing in Sens
 12 pages, Seattle, Washington, April 14-16, 2015.
 (Acceptance rate: 27/111 = 24.3%)
 \[ [Paper](documents/tardis-ipsn2015-author.pdf) \]
-\[ doi > [10.1145/2737095.2737096](http://dx.doi.org/10.1145/2737095.2737096) \]
 
 Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.
 **[Aveksha: A Hardware-Software Approach for Non-intrusive Tracing and
@@ -65,7 +64,7 @@ Professional Activities
 
 I have been a reviewer for the following journals:
 
-IEEE Transactions on Parallel and Distributed Systems (TPDS) - 2014
+IEEE Transactions on Computers (TC) 2015
 
-IEEE Transactions on Computers (TC) - 2015
+IEEE Transactions on Parallel and Distributed Systems (TPDS) 2014
 
