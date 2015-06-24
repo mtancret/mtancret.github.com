@@ -26,8 +26,9 @@ Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, and Patrick Eugster
 **TARDIS: Software-Only System-Level Record and Replay in Wireless Sensor Networks**.
 In Proceedings of the 14th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN),
 12 pages, Seattle, Washington, April 14-16, 2015.
-(Acceptance rate: 27/111 = 24.3%)
-\[ [Paper](documents/tardis-ipsn2015-author.pdf) \]
+(Acceptance rate: 27/111 = 24.3%)  
+\[ [Paper](documents/tardis-ipsn2015-author.pdf) \]  
+\[ doi > [10.1145/2737095.2737096](http://dx.doi.org/10.1145/2737095.2737096) \]
 
 Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, and Patrick Eugster
 **Demonstration Abstract: Software-Only System-Level Record and Replay in Wireless Sensor Networks**.

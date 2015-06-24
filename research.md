@@ -10,8 +10,9 @@ Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, and Patrick Eugster.
 **TARDIS: Software-Only System-Level Record and Replay in Wireless Sensor Networks**.
 In Proceedings of the 14th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN),
 12 pages, Seattle, Washington, April 14-16, 2015.
-(Acceptance rate: 27/111 = 24.3%)
-\[ [Paper](documents/tardis-ipsn2015-author.pdf) \]
+(Acceptance rate: 27/111 = 24.3%)  
+\[ [Paper](documents/tardis-ipsn2015-author.pdf) \]  
+\[ doi > [10.1145/2737095.2737096](http://dx.doi.org/10.1145/2737095.2737096) \]
 
 Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.
 **[Aveksha: A Hardware-Software Approach for Non-intrusive Tracing and
@@ -19,8 +20,8 @@ Profiling of Wireless Embedded Systems](aveksha.html)**.
 In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 14 pages, Seattle, Washington, November 1-4, 2011.
 (Acceptance rate: 24/123 = 19.5%)  
-\[ [Paper](documents/aveksha-sensys2011-author.pdf) \]
-\[ [Presentation](documents/presentation-aveksha-sensys2011.pdf) \]
+\[ [Paper](documents/aveksha-sensys2011-author.pdf) \]  
+\[ [Presentation](documents/presentation-aveksha-sensys2011.pdf) \]  
 \[ doi > [10.1145/2070942.2070972](http://dx.doi.org/10.1145/2070942.2070972) \]
 
 Matthew Tan Creti, Matthew Beaman, Saurabh Bagchi, Zhiyuan Li, and Yung-Hsiang Lu.  
@@ -51,7 +52,7 @@ Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.
 Tracing and Profiling of Wireless Embedded Systems](aveksha.html)**.
 In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 2 pages, Seattle, Washington, November 1-4, 2011.  
-\[ [Demo Abstract](documents/demo-aveksha-sensys2011.pdf) \]
+\[ [Demo Abstract](documents/demo-aveksha-sensys2011.pdf) \]  
 \[ [Poster](documents/poster-aveksha-sensys2011.pdf) \]
 
 Thesis
