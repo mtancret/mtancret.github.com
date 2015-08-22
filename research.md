@@ -14,7 +14,7 @@ In Proceedings of the 14th ACM/IEEE Conference on Information Processing in Sens
 \[ [Paper](documents/tardis-ipsn2015-author.pdf) \]  
 \[ doi > [10.1145/2737095.2737096](http://dx.doi.org/10.1145/2737095.2737096) \]
 
-Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.
+**Best Paper Award:**Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.
 **[Aveksha: A Hardware-Software Approach for Non-intrusive Tracing and
 Profiling of Wireless Embedded Systems](aveksha.html)**.
 In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
@@ -63,7 +63,9 @@ Tan Creti, Matthew Edward Ph.D., Purdue University, August 2015. **Software and 
 Professional Activities
 -----------------------
 
-I have been a reviewer for the following journals:
+I have been a reviewer for the following journals and conferences:
+
+IEEE International Symposium on Software Reliability Engineering (ISSRE) 2015
 
 IEEE Transactions on Computers (TC) 2015
 
