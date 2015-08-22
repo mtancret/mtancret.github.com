@@ -14,7 +14,7 @@ In Proceedings of the 14th ACM/IEEE Conference on Information Processing in Sens
 \[ [Paper](documents/tardis-ipsn2015-author.pdf) \]  
 \[ doi > [10.1145/2737095.2737096](http://dx.doi.org/10.1145/2737095.2737096) \]
 
-**Best Paper Award:**Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.
+**Best Paper Award:** Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.
 **[Aveksha: A Hardware-Software Approach for Non-intrusive Tracing and
 Profiling of Wireless Embedded Systems](aveksha.html)**.
 In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
