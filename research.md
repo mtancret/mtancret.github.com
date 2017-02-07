@@ -64,6 +64,7 @@ Professional Activities
 
 I have been a reviewer for the following journals and conferences:
 
+The 47th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2017
 IEEE International Symposium on Software Reliability Engineering (ISSRE) 2015  
 IEEE Transactions on Computers (TC) 2015  
 IEEE Transactions on Parallel and Distributed Systems (TPDS) 2014  
