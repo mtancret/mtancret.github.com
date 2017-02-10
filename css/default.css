@@ -162,8 +162,8 @@ img.center {
 .page_margins {
 	text-align: left;
 	margin: 0 auto;
-	min-width: 300px;
-	max-width: 700px;
+	min-width: 400px;
+	max-width: 800px;
 }
 
 #col1 {
