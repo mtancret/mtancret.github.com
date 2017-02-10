@@ -17,7 +17,7 @@ of resource-constrained embedded systems.
 
 Download
 --------
-The TARDIS runtime is [available on GitHub](https://github.com/mtancret/recordreplay) for non-commercial purposes.
+The TARDIS [runtime](https://github.com/mtancret/recordreplay) is available on GitHub for non-commercial purposes.
 
 Publications
 ------------
@@ -27,12 +27,12 @@ Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, and Patrick Eugster
 In Proceedings of the 14th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN),
 12 pages, Seattle, Washington, April 14-16, 2015.
 (Acceptance rate: 27/111 = 24.3%)  
-doi>\[ [10.1145/2737095.2737096](http://dx.doi.org/10.1145/2737095.2737096) \]
+doi>\[ [10.1145/2737095.2737096](http://dx.doi.org/10.1145/2737095.2737096) \]  
 Author's version: \[ [pdf](documents/tardis-ipsn2015-author.pdf) \]  
 
 Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, and Patrick Eugster
 **Demonstration Abstract: Software-Only System-Level Record and Replay in Wireless Sensor Networks**.
 In Proceedings of the 14th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN),
 2 pages, Seattle, Washington, April 14-16, 2015.  
-Demo abstract: \[ [pdf](documents/demo-tardis-ipsn2015.pdf) \]
-Poster: \[ [pdf](documents/poster-tardis-ipsn2015.pdf) \]
+Demo abstract: \[ [pdf](documents/demo-tardis-ipsn2015.pdf) \]  
+Poster: \[ [pdf](documents/poster-tardis-ipsn2015.pdf) \]  

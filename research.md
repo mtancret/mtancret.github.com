@@ -11,7 +11,7 @@ Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, and Patrick Eugster.
 In Proceedings of the 14th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN),
 12 pages, Seattle, Washington, April 14-16, 2015.
 (Acceptance rate: 27/111 = 24.3%)  
-doi>\[ [10.1145/2737095.2737096](http://dx.doi.org/10.1145/2737095.2737096) \]
+doi>\[ [10.1145/2737095.2737096](http://dx.doi.org/10.1145/2737095.2737096) \]  
 Author's version: \[ [pdf](documents/tardis-ipsn2015-author.pdf) \]  
 
 **Best Paper Award:** Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.
@@ -19,7 +19,7 @@ Author's version: \[ [pdf](documents/tardis-ipsn2015-author.pdf) \]
 In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 14 pages, Seattle, Washington, November 1-4, 2011.
 (Acceptance rate: 24/123 = 19.5%)  
-doi>\[ [10.1145/2070942.2070972](http://dx.doi.org/10.1145/2070942.2070972) \]
+doi>\[ [10.1145/2070942.2070972](http://dx.doi.org/10.1145/2070942.2070972) \]  
 Author's version: \[ [pdf](documents/aveksha-sensys2011-author.pdf) \]  
 Presentation slides: \[ [pdf](documents/presentation-aveksha-sensys2011.pdf) \]  
 
@@ -51,7 +51,7 @@ Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.
 In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 2 pages, Seattle, Washington, November 1-4, 2011.  
 Demo abstract: \[ [pdf](documents/demo-aveksha-sensys2011.pdf) \]  
-Poster: \[ [pdf](documents/poster-aveksha-sensys2011.pdf) \]
+Poster: \[ [pdf](documents/poster-aveksha-sensys2011.pdf) \]  
 
 Thesis
 ------
@@ -64,7 +64,7 @@ Professional Service
 
 I have been a reviewer for the following journals and conferences:
 
-The 47th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2017
+The 47th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2017  
 IEEE International Symposium on Software Reliability Engineering (ISSRE) 2015  
 IEEE Transactions on Computers (TC) 2015  
 IEEE Transactions on Parallel and Distributed Systems (TPDS) 2014  
