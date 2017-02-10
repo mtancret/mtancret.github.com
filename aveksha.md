@@ -20,7 +20,7 @@ the target processor, while at the same time taking energy readings of the mote.
 Code
 ----
 The [source](https://github.com/mtancret/aveksha) is freely
-available. It is licensed under the
+available on GitHub. It is licensed under the
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
 Publications
@@ -32,15 +32,15 @@ Non-intrusive Tracing and Profiling of Wireless Embedded Systems**.
 In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 14 pages, Seattle, Washington, November 1-4, 2011.
 (Acceptance rate: 24/123 = 19.5%)  
-Paper \[ [pdf](documents/aveksha-sensys2011-author.pdf) \]  
-Presentation \[ [pdf](documents/presentation-aveksha-sensys2011.pdf) \]  
-doi \[ [10.1145/2070942.2070972](http://dx.doi.org/10.1145/2070942.2070972) \]  
+DOI>\[ [10.1145/2070942.2070972](http://dx.doi.org/10.1145/2070942.2070972) \]  
+Author''s version: \[ [PDF](documents/aveksha-sensys2011-author.pdf) \]  
+Presentation slides: \[ [PDF](documents/presentation-aveksha-sensys2011.pdf) \]  
 
 Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.  
 **Demo Abstract: Aveksha - A Hardware-Software Approach for Non-intrusive
 Tracing and Profiling of Wireless Embedded Systems**.
 In 9th ACM Conference on Embedded Networked Sensor Systems (SenSys),
 2 pages, Seattle, Washington, November 1-4, 2011.  
-Demo Abstract \[ [pdf](documents/demo-aveksha-sensys2011.pdf) \]  
-Poster \[ [pdf](documents/poster-aveksha-sensys2011.pdf) \]  
+Demo abstract: \[ [PDF](documents/demo-aveksha-sensys2011.pdf) \]  
+Poster: \[ [PDF](documents/poster-aveksha-sensys2011.pdf) \]  
 
