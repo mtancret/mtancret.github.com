@@ -44,7 +44,8 @@ Matthew Tancreti, Vinaitheerthan Sundaram, Saurabh Bagchi, and Patrick Eugster.
 **Demonstration Abstract: Software-Only System-Level Record and Replay in Wireless Sensor Networks**.
 In Proceedings of the 14th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN),
 2 pages, Seattle, Washington, April 14-16, 2015.  
-Demo abstract: \[ [pdf](documents/demo-tardis-ipsn2015.pdf) \]
+Demo abstract: \[ [pdf](documents/demo-tardis-ipsn2015.pdf) \]  
+Poster: \[ [pdf](documents/poster-tardis-ipsn2015.pdf) \]  
 
 Matthew Tancreti, Mohammad Hossain, Saurabh Bagchi, and Vijay Raghunathan.  
 **Demo Abstract: Aveksha - A Hardware-Software Approach for Non-intrusive Tracing and Profiling of Wireless Embedded Systems**.
