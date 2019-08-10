@@ -63,10 +63,10 @@ Thesis: \[ [pdf](documents/tancreti-thesis-phd.pdf) \]
 Professional Service 
 --------------------
 
-Panel Member, National Science Foundation (NSF) SBIR Phase I Grant Review Panel, 2019.
-External Reviewer, IEEE International Conference on Network Protocols (ICNP), 2019.
-External Reviewer, IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2017.
-External Reviewer, IEEE International Symposium on Software Reliability Engineering (ISSRE), 2015.
-Reviewer, IEEE Transactions on Computers (TC), 2015.
-Reviewer, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2014.
+Panel Member, National Science Foundation (NSF) SBIR Phase I Grant Review Panel, 2019.  
+External Reviewer, IEEE International Conference on Network Protocols (ICNP), 2019.  
+External Reviewer, IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2017.  
+External Reviewer, IEEE International Symposium on Software Reliability Engineering (ISSRE), 2015.  
+Reviewer, IEEE Transactions on Computers (TC), 2015.  
+Reviewer, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2014.  
 
