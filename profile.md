@@ -4,8 +4,8 @@ title: Profile
 ---
 
 I am currently a lecturer of Computer Science at
-[Des Moines Area Community College](https://www.dmacc.edu) and
-[Iowa State University](https://www.cs.iastate.edu).
+[Iowa State University](https://faculty.sites.iastate.edu/tancreti) and
+[Des Moines Area Community College](https://www.dmacc.edu).
 I am also a co-founder of [SensorHound, Inc](http://sensorhound.com).
 
 In 2015, I completed my PhD at Purdue University under the supervision of
